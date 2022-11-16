@@ -1,7 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9346035&assignment_repo_type=AssignmentRepo)
 ## Object-oriented Programming (Lab Work) Template Guides
 Natasya febriani - 21343010
-
+Pada Js12 Ini kita mempelajari materi  :
 * Prinsip inheritance pada OOP adalah di mana kita dapat membentuk class baru yang “mewarisi” atau memiliki bagian-bagian dari class yang sudah ada sebelumnya. Konsep ini menggunakan sistem hirarki atau bertingkat. Inheritance dimungkinkan untuk mewarisi atribut dan metode dari satu kelas ke kelas lainnya.   "konsep pewarisan" menjadi dua kategori:
 • subclass (anak) - kelas yang mewarisi dari kelas lain
 • superclass (induk) - kelas yang diwarisi dari induk
